@@ -4,7 +4,7 @@
 |---|---|
 | Aprendiz | (tu nombre completo) |
 | Ficha | (número de ficha) |
-| Cobertura de líneas alcanzada en `CarritoCompras` | (ej. 95 %) |
+| Cobertura de líneas alcanzada en `CarritoCompras` | 100 % (30/30 líneas, 24/24 ramas) |
 
 ## Contenido
 - `src/main/java/co/edu/notas/` — código de producción (`CalculadoraNotas`, `CarritoCompras`)
